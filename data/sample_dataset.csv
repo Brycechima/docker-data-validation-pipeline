@@ -1,0 +1,5 @@
+id,user_query,model_response,accuracy_score,instruction_adherence,category
+101,"Explain Docker multi-stage caching","Multi-stage builds allow separating build tools from runtime.",0.98,True,coding
+102,"Calculate 3D bounding matrix coordinates","Camera view matrix transforms world space coordinates.",0.95,True,spatial
+103,"Evaluate LLM reasoning consistency","The premise contains logical circularity.",0.99,True,reasoning
+104,"Synthesize multimodal voiceover prompt","Maintain 120bpm cadence with neutral inflection.",0.92,True,multimodal
